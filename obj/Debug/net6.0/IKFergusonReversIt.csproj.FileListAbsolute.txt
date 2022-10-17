@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\bin\Debug\net6.0\IKFergusonReversIt.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\bin\Debug\net6.0\IKFergusonReversIt.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\bin\Debug\net6.0\IKFergusonReversIt.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\bin\Debug\net6.0\IKFergusonReversIt.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\bin\Debug\net6.0\IKFergusonReversIt.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\refint\IKFergusonReversIt.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\IKFergusonReversIt.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonReversIt\obj\Debug\net6.0\ref\IKFergusonReversIt.dll

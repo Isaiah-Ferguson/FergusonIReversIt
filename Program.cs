@@ -1,6 +1,10 @@
 ﻿//Isaiah Keith Ferguson
-//10/17/2022
+//10/18/2022
 //Reverse IT
+//We will be reversing the user's input.
+//Peer Reviewed by:
+
+Console.Clear();
 
 string endingString = "";
 
